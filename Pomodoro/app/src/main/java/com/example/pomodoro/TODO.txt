@@ -1,0 +1,15 @@
+WANT
+1. time setting (study, break, rest)
+2. cycle setting (cycle count)
+3. choice alarm, vibration
+4. setting fragment ot dialog(?)
+5. separating class by function
+6. log pomodoro
+7. change split
+
+TODO
+- separating class by function -
+1. timer, data
+2. main just main
+
+DONE
